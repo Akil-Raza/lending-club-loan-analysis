@@ -1,0 +1,6 @@
+income_band,loans,default_pct,avg_rate_pct,net_return_pct
+1: under 40k,210374,23.7,14.0,0.6
+2: 40k to 60k,355532,21.7,13.6,1.9
+3: 60k to 80k,307925,20.1,13.2,2.4
+4: 80k to 120k,301795,17.6,12.8,3.5
+5: 120k and over,169684,15.6,12.3,4.2

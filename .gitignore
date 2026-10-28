@@ -1,0 +1,7 @@
+.venv/
+.ipynb_checkpoints/
+accepted_2007_to_2018Q4.csv
+accepted_2007_to_2018Q4.csv.gz
+loans_clean.csv
+*.duckdb
+*.duckdb.wal
