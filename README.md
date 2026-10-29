@@ -8,7 +8,7 @@ across grade, term, purpose, income, debt-to-income and state.
 
 - Grades A and B return about 5% over the life of the loan. Grade D is roughly
   break-even, and grades E, F and G lose money on average.
-- 60-month loans default more and return less than 36-month loans of the same grade.
+- 60-month loans default more in every grade and return less in grades A to F.
 - For 36-month loans, net return peaked at 11.1% for 2013 loans and fell to 6.6% for
   2015 loans, as interest rates dropped and defaults rose.
 - Small business loans default about twice as often as other loans in grade A.
