@@ -6,14 +6,30 @@ across grade, term, purpose, income, debt-to-income and state.
 
 ## Main findings
 
+## Main findings
+
 - Grades A and B return about 5% over the life of the loan. Grade D is roughly
   break-even, and grades E, F and G lose money on average.
-- 60-month loans default more in every grade and return less in grades A to F.
+- 60-month loans default more than 36-month loans in every grade, and return less in
+  grades A to F. The gap is biggest in grades A to D.
 - For 36-month loans, net return peaked at 11.1% for 2013 loans and fell to 6.6% for
-  2015 loans, as interest rates dropped and defaults rose.
-- Small business loans default about twice as often as other loans in grade A.
-- Loans with a debt-to-income ratio above 30 lose money on average.
+  2015 loans, as average interest rates dropped from 13.4% to 11.3% and default rates
+  rose from 12.3% to 14.9%. Years before 2012 have few loans and swing more.
+- Small business loans default about twice as often as other loans in grade A, and the
+  gap shrinks as the grade gets worse.
+- Loans with a debt-to-income ratio of 30 or more lose money on average.
 - Default falls steadily as income rises, from 23.7% (under $40k) to 15.6% ($120k and over).
+- Mississippi has the highest default rate (26.1%) and the only negative return among
+  states with at least 5,000 loans. Oregon has the lowest (14.4%).
+
+## Dashboard
+
+![Overview](lending-club/screenshots/1-overview.png)
+![Term and year](lending-club/screenshots/2-term-and-year.png)
+![Borrower profile](lending-club/screenshots/3-borrower-profile.png)
+![States](lending-club/screenshots/4-states.png)
+
+The Power BI file is `lending-club/loan_dashboard.pbix`. Open it with Power BI Desktop (Windows).
 
 ## Stack
 
